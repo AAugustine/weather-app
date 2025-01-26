@@ -3,7 +3,10 @@
 # Weather App
 
 This is a simple weather application built with React and TypeScript. It allows users to search for weather information based on their location.
-Built for knowledge and fun purposes.
+
+This project uses the [Openweathermap API](https://home.openweathermap.org/) for weather data. 🌤️
+
+Built for knowledge and fun purposes. 🧠
 
 ## Technologies Used
 
