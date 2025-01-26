@@ -2,7 +2,8 @@
 
 # Weather App
 
-This is a simple weather application built with React and TypeScript. It allows users to search for weather information based on their location
+This is a simple weather application built with React and TypeScript. It allows users to search for weather information based on their location.
+Built for knowledge and fun purposes.
 
 ## Technologies Used
 
