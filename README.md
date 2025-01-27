@@ -20,23 +20,27 @@ Built for knowledge and fun purposes. 🧠
    ```
    git clone <repository-url>
    ```
+1. Add Open Weather Map API Key to [.env](https://github.com/AAugustine/weather-app/blob/main/weather-app/.env) file:
+   ```
+   REACT_APP_WEATHER_API_KEY='API-KEY-GOES-HERE'
+   ```
 
-2. Navigate to the project directory:
+1. Navigate to the project directory:
    ```
    cd weather-app
    ```
 
-3. Install the dependencies:
+1. Install the dependencies:
    ```
    npm install
    ```
 
-4. Start the development server:
+1. Start the development server:
    ```
    npm start
    ```
 
-5. Open your browser and go to `http://localhost:3000` to view the app.
+1. Open your browser and go to `http://localhost:3000` to view the app.
 
 ## Usage
 
